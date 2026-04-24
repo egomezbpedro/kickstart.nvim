@@ -25,7 +25,7 @@ return {
         desc = 'LSP Definitions / references / ... (Trouble)',
       },
       {
-        '<leader>dL ',
+        '<leader>dL',
         '<cmd>Trouble loclist toggle<cr>',
         desc = 'Location List (Trouble)',
       },
